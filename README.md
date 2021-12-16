@@ -1,6 +1,6 @@
 # Softuni-Javascript-Advanced-Sept-2021
 
-## This repository aims to demonstrate the implementation of lots ot problems of some fundamental topics in JS : 
+## This repository aims to demonstrate the implementation of lots of problems of some fundamental topics in JS : 
 
  - Arrays and Nested Arrays
  - Objects and Composition
